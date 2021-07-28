@@ -1,1 +1,3 @@
 # Rock-Paper-Scissors-Prediction
+In order to get recogniztion certificate from Dicoding, We as student have to make final project about machine learning. I was tasked to develope a machine-learning system that can predict images using tensorflow and keras library to predict images (scissors, paper, rock) with accuracy over 96%. I also visualize the graph of training and validation accuracy and loss using matplotlib library. I took the validation data with amount of 40% from the total data (source data) that I got. I also used callback function to automatically stop the model.fit simulation if it has met the requirement that I set earlier which was 96% accuracy.
+
